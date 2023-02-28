@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec\\DecrypterPOC-main\\DecryptorPOC\\DecrypterPOC.csproj": {}
+    "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec_FILE\\GoodMin\\DecryptorPOC\\DecrypterPOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec\\DecrypterPOC-main\\DecryptorPOC\\DecrypterPOC.csproj": {
+    "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec_FILE\\GoodMin\\DecryptorPOC\\DecrypterPOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec\\DecrypterPOC-main\\DecryptorPOC\\DecrypterPOC.csproj",
+        "projectUniqueName": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec_FILE\\GoodMin\\DecryptorPOC\\DecrypterPOC.csproj",
         "projectName": "DecrypterPOC",
-        "projectPath": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec\\DecrypterPOC-main\\DecryptorPOC\\DecrypterPOC.csproj",
+        "projectPath": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec_FILE\\GoodMin\\DecryptorPOC\\DecrypterPOC.csproj",
         "packagesPath": "C:\\Users\\ALIYASMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec\\DecrypterPOC-main\\DecryptorPOC\\obj\\",
+        "outputPath": "C:\\Users\\ALIYASMIN\\OneDrive\\Documents\\SEM_5\\Restricted_Comsec_FILE\\GoodMin\\DecryptorPOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIYASMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
